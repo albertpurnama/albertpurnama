@@ -7,7 +7,7 @@ I'm a software engineer and founder who loves building fast, practical, and deli
 - Some side projects that's still fresh in the oven.
 
 ### 💼 Previous Startups
-- **Typedream** – No-code website builder, acquired by [Beehiiv](https://beehiiv.com).
+- **Typedream** – No-code website builder, acquired by [beehiiv](https://beehiiv.com).
 - **Cotter** – Passwordless login SDK, acquired by [Stytch](https://stytch.com).
 
 ### 💻 Languages & Tools
